@@ -1,6 +1,9 @@
 # 🚀 **ReactJS Project: Intro**
 
-This repository showcases Stoic-Coder's journey in learning ReactJS through the creation of a project. The project marked the start of exploring core React concepts and utilized external libraries like React-icons and Framer Motion for additional features.
+![image](https://github.com/ShubhMehrotra19/Docs-with-ReactJs/assets/110672923/2b6a8a1d-a46c-4cb8-8344-224684f54771)
+
+
+This repository showcases my journey in learning ReactJS through the creation of a project. The project marked the start of exploring core React concepts and utilizing external libraries like React-icons and Framer Motion for additional features.
 
 # 📦 **Tech Stack:**
 
